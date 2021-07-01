@@ -1,24 +1,22 @@
-# README
+# First rails app
+You can find project requirements in [odin page.](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+- Ruby on Rails
+- Heroku
 
-* Ruby version
+## Authors
 
-* System dependencies
+👤 **Ahmet Bozacı**
 
-* Configuration
+- Github: [ahmetbozaci ](https://github.com/ahmetbozaci )
+- Twitter: [ahmtbozaci](https://twitter.com/ahmtbozaci)
+- Linkedin: [ahmetbozaci](https://linkedin.com/in/meron-ogbai-467414198/)
 
-* Database creation
 
-* Database initialization
+## 🤝 Contributing
 
-* How to run the test suite
+Contributions, issues and feature requests are welcome!
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Feel free to check the [issues page](../../issues).
